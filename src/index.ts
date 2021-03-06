@@ -1,5 +1,3 @@
-const main = () => {
-  console.log('Hello World!')
-}
+import { header } from './output/header'
 
-export default main
+header()

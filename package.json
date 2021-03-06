@@ -6,5 +6,12 @@
   "repository": "https://github.com/Matt-Gleich/gleich.git",
   "author": "Matthew Gleich <git@mattglei.ch>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "run": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "lolcatjs": "^2.4.0"
+  }
 }
