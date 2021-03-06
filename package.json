@@ -1,0 +1,10 @@
+{
+  "name": "gleich",
+  "version": "1.0.0",
+  "description": "Meet Matthew Gleich from the comfort of your own terminal!",
+  "main": "src/index.ts",
+  "repository": "https://github.com/Matt-Gleich/gleich.git",
+  "author": "Matthew Gleich <git@mattglei.ch>",
+  "license": "MIT",
+  "private": false
+}
